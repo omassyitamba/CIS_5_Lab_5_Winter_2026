@@ -1,4 +1,5 @@
 # CIS_5_Lab_5_Winter_2026
+https://youtu.be/UsKHZ-AEtFM
 Practicing Structures
 
 Goal: Create a business card with structures for different companies. 
